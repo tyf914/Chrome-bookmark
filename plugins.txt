@@ -1,1 +1,1 @@
-web developer,  wappalyzer,  code cola, google 翻译，clear cache， proxy switchyOmega, Vue.js devtools, WEB前端助手（FeHelper） 
+web developer, wappalyzer, EditThisCookie, code cola, google 翻译, clear cache, proxy switchyOmega, Vue.js devtools, WEB前端助手（FeHelper） 
